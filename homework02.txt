@@ -4,3 +4,5 @@ My name is Lee minwoo
 //////////////////////////////
 I'm trying to correct the sentence on remote repository.
 Test 123 123.
+///////////////////////////////
+I'm trying to add the sentence on branch_2 with vi editor.
