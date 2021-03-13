@@ -1,1 +1,3 @@
 This is osp_hw02's homework file
+add the sentence
+My name is Lee minwoo
