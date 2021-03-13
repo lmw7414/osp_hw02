@@ -1,3 +1,6 @@
 This is osp_hw02's homework file
 add the sentence
 My name is Lee minwoo
+//////////////////////////////
+I'm trying to correct the sentence on remote repository.
+Test 123 123.
